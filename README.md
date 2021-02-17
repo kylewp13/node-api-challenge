@@ -40,13 +40,24 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    -   Express router
+    -   Nodemon
+
 - [ ] Describe Middleware?
+
+    -   Middleware is a function that traffic is diverted to before going on to the next function
 
 - [ ] Describe a Resource?
 
+    - Everything is a resource
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    - A Status
+
 - [ ] How can we partition our application into sub-applications?
+
+    -   By using express router
 
 ## Minimum Viable Product
 
